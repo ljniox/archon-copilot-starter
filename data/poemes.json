@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "titre": "Aube",
+        "auteur": "Inconnu",
+        "contenu": "L'aube chante sur la ville endormie.",
+        "tags": [
+            "nature",
+            "matin"
+        ]
+    },
+    {
+        "id": 2,
+        "titre": "Nuit",
+        "auteur": "Anonyme",
+        "contenu": "La nuit tisse des rêves en filigrane.",
+        "tags": [
+            "nuit",
+            "reves"
+        ]
+    },
+    {
+        "id": 3,
+        "titre": "Rivière",
+        "auteur": "Poète",
+        "contenu": "La rivière apprend aux pierres la patience.",
+        "tags": [
+            "eau"
+        ]
+    }
+]
